@@ -8,6 +8,10 @@ function App() {
       <Titulo />
 
       <Aluno nome="Joao" turma="T-DESI" />
+
+      <Aluno nome="Pedro" turma="T-DESI" />
+
+      <Aluno nome="Ana" turma="T-DESI" />
     </div>
   )
 }
