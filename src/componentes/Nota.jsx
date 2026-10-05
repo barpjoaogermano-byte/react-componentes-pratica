@@ -1,10 +1,10 @@
 function Nota({ disciplina, nota }) {
   return (
     <div>
-      <h3>{disciplina}</h3>
-      <p>Turma: {nota}</p>
+      <h2>{disciplina}</h2>
+      <p>Nota: {nota}</p>
     </div>
   )
 }
 
-export default Aluno
+export default Nota
